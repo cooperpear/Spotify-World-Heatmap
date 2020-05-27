@@ -47,7 +47,7 @@ Version 1.1.2
 
 ## Authors
 
-Cooper Pearso
+Cooper Pearson
 Luke Olson
 Jeff Arriaga
 Matthew Reilly
