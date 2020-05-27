@@ -15,7 +15,7 @@ Run your SQL database program, connect to your server.
 Run server.js
 Navigate to localhost:8080
 Search for your genre, the list will auto-populate
-Choose your genre
+Choose your genre.
 See the number of listeners worldwide currently listening to this genre
 
 
