@@ -1,6 +1,6 @@
 # Project Title - project-2-spotify
 
-This project Scrapes data from Spotify's API, and uses mapbox visualization to render worldwide listener user habits.
+This project uses a modified version of cheerio to scrape data from Spotify, and uses mapbox visualization to render the worldwide data set of current listener user habits.
 
 ## Getting Started
 
