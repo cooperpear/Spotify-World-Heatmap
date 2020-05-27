@@ -10,7 +10,7 @@ All you need is a web browser, an SQL database, and a terminal.
 
 ### Installing
 
-Install your node packages. 
+Install your node packages. <br>
 Run your SQL database program, connect to your server. 
 Run server.js
 Navigate to localhost:8080
