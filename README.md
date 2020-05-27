@@ -47,7 +47,7 @@ Version 1.0.0
 
 ## Authors
 
-Cooper Pe
+Cooper Pea
 Luke Olson
 Jeff Arriaga
 Matthew Reilly
@@ -56,7 +56,7 @@ Daniel Hawn
 
 ## License
 
-Copyleft U+00A9 2020
+Copyleft 2020
 
 ## Acknowledgments
 
