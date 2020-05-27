@@ -11,12 +11,12 @@ All you need is a web browser, an SQL database, and a terminal.
 ### Installing
 
 Install your node packages. <br>
-Run your SQL database program, connect to your server. 
+Run your SQL database program, connect to your server. <br>
 Run server.js
 Navigate to localhost:8080
 Search for your genre, the list will auto-populate
 Choose your genre.
-See the number of listeners worldwide currently listening to this genre
+See the number of listeners worldwide currently listening to this genre.
 
 
 ## Deployment
