@@ -12,7 +12,7 @@ All you need is a web browser, an SQL database, and a terminal.
 
 Install your node packages. <br>
 Run your SQL database program, connect to your server. <br>
-Run server.js.
+Run server.js. <br>
 Navigate to localhost:8080 <br>
 Search for your genre and the list will auto-populate.
 Choose your genre.
