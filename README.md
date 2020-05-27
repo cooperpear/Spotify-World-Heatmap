@@ -47,11 +47,12 @@ Version 1.0.0
 
 ## Authors
 
+Cooper
 Luke Olson
 Jeff Arriaga
 Matthew Reilly
 Daniel Hawn
-Cooper Pearson
+
 
 ## License
 
