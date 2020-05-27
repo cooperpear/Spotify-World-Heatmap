@@ -14,7 +14,7 @@ Install your node packages. <br>
 Run your SQL database program, connect to your server. <br>
 Run server.js. <br>
 Navigate to localhost:8080 <br>
-Search for your genre and the list will auto-populate.
+Search for your genre and the list will auto-populate. <br>
 Choose your genre.
 See the number of listeners worldwide currently listening to this genre.
 
