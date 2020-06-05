@@ -1,14 +1,13 @@
-# Project Title - project-2-spotify
+# Project Spotify
 
 This project uses a modified version of cheerio to scrape data from Spotify, and uses mapbox visualization to render the worldwide data set of current listener user habits.
 
 ## Getting Started
 
-All you need is a web browser, an SQL database, and a terminal. 
+Navigate to the deployed site. <br>
+Refer to the (Installing) section if you would like to scrape your own data and store in an SQL database. 
 
-
-
-### Installing
+## Installing
 
 Install your node packages. <br>
 Run your SQL database program, connect to your server. <br>
@@ -18,24 +17,24 @@ Search for your genre and the list will auto-populate. <br>
 Choose your genre. <br>
 See the number of listeners worldwide currently listening to this genre.
 
-
 ## Deployment
 
 Deployed to Heroku - https://project-2-spotify.herokuapp.com/
 
 ## Built With
 
+Cheerio<br>
+Node<br>
+Sequelize<br>
+Mysql2<br>
+Mapbox<br>
+Select2<br>
+Scrape.js<br>
+Autoscrape.js<br>
+Materialize (front end styling)
 
-Cheerio
-Node
-Sequelize
-Mysql2
-Mapbox
-Select2
-Scrape.js
-Autoscrape.js
-Materialize
-
+## Screenshots
+![Home](https://github.com/cooperpear/Spotify-World-Heatmap/blob/master/spotify-screencapture.png?raw=true "Home")
 
 ## Contributing
 
@@ -43,14 +42,14 @@ Authors reserve all rights for any suggested contributions.
 
 ## Versioning
 
-Version 1.1.2
+Version 1.1.3
 
 ## Authors
 
-Cooper Pearson
-Luke Olson
-Jeff Arriaga
-Matthew Reilly
+Cooper Pearson<br>
+Luke Olson<br>
+Jeff Arriaga<br>
+Matthew Reilly<br>
 Daniel Hawn
 
 
