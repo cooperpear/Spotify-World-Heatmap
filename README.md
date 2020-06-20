@@ -23,6 +23,7 @@ Deployed to Heroku - https://project-2-spotify.herokuapp.com/
 
 ## Built With
 
+Express (Server)<br>
 Cheerio<br>
 Node<br>
 Sequelize<br>
